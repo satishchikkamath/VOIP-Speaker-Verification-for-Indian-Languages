@@ -1,0 +1,15 @@
+*.pt
+*.pth
+__pycache__/
+checkpoints/
+*results/
+*logs/
+*.pt
+*.pth
+__pycache__/
+checkpoints/
+*results/
+*logs/
+*.png
+*.csv
+*.txt
