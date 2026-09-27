@@ -543,9 +543,3 @@ or another license appropriate to the datasets, pretrained models, and code used
 **GitHub:**
 [https://github.com/satishchikkamath/VOIP-Speaker-Verification-for-Indian-Languages](https://github.com/satishchikkamath/VOIP-Speaker-Verification-for-Indian-Languages)
 
-A couple of things I **deliberately did not invent**: specific EER/accuracy numbers, exact dataset size, exact Indian languages, training hyperparameters, or claims about which model performs better. Your current repository establishes the use of **ResNet293, ECAPA-TDNN and VOIP fine-tuning**, but the README does not document those experimental results yet. ([GitHub][2])
-
-**One important improvement:** if this repository is connected to your **speaker-verification research paper**, I would make the README even stronger by adding a **Results** section with your actual EER, FAR, FRR, accuracy, language-wise results, and a **ResNet293 vs ECAPA-TDNN comparison table**. That would make the GitHub repository look much more like a reproducible research artifact rather than just a collection of Python files.
-
-[1]: https://github.com/satishchikkamath/VOIP-Speaker-Verification-for-Indian-Languages "GitHub - satishchikkamath/VOIP-Speaker-Verification-for-Indian-Languages · GitHub"
-[2]: https://github.com/satishchikkamath/VOIP-Speaker-Verification-for-Indian-Languages/blob/main/README.md "VOIP-Speaker-Verification-for-Indian-Languages/README.md at main · satishchikkamath/VOIP-Speaker-Verification-for-Indian-Languages · GitHub"
