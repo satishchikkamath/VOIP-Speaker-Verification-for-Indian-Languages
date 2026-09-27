@@ -1,9 +1,3 @@
-Yes. I checked the repository and its main scripts. The current README is only a few lines, while the repository actually contains implementations for **ResNet293, ECAPA-TDNN, VOIP-data fine-tuning, cross-language evaluation, and evaluation/analysis scripts**. ([GitHub][1])
-
-I would make the README look more like a **research-project repository**, rather than a generic code repository. In particular, I would highlight the Indian-language/VOIP motivation, the two architectures, fine-tuning, evaluation, and the experimental workflow.
-
-Here is a polished README you can directly replace your current one with:
-
 # 🎙️ VOIP Speaker Verification for Indian Languages
 
 A deep-learning based **speaker verification framework for Indian-language speech over Voice over IP (VOIP) communication channels**.
